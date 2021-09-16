@@ -1,4 +1,4 @@
-# Team Name
+# Alpha
 
 Project description (~1 paragraph)
 
