@@ -1,6 +1,10 @@
-Team name:
+Team name:Alpha
 
 Team members:
+• VAMSHI KRISHNA REDDY PURUMANDLA
+• GURUCHARAN PARSA
+• HITESH GONE
+• RITHWIK SAGAR KONDALA
 
 # Introduction
 
@@ -9,6 +13,7 @@ Team members:
 # Anticipated Technologies
 
 (What technologies are needed to build this project)
+we are using django framework in python
 
 # Method/Approach
 
