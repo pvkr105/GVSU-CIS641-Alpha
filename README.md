@@ -29,19 +29,19 @@ Features of the website will be discussed and finalized, catalogs will be curate
 
 # Estimated Timeline
 
-1 - Setup Admin Interface - October 1st week
-2 - Getting the Database up and running - October 3rd week
-3 - Front-end Designing - begins from October 2nd Week
-4 - Initial Debugging - October last week
-5 - Polishing the UI - by end of November
+- Setup Admin Interface - October 1st week
+- Getting the Database up and running - October 3rd week
+- Front-end Designing - begins from October 2nd Week
+- Initial Debugging - October last week
+- Polishing the UI - by end of November
 
 *More yet to be decided*
 
 # Anticipated Problems
 
-1 - Integrating the payments portal
-2 - Managing the shopping cart
-3 - Customer profiles
+- Integrating the payments portal
+- Managing the shopping cart
+- Customer profiles
 
 
 ## Team Members and Roles
