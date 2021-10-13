@@ -23,5 +23,4 @@ Discussion points:
 
 Goals for next week (include responsibilities)
 
-*
-*
+* we will be completing the remaining work 
