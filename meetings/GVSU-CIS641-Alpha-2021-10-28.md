@@ -15,7 +15,7 @@ Time:7:00 PM
 
 Discussion points: 
 
-* 
+*implementing the wirefare
 * 
 * 
 
