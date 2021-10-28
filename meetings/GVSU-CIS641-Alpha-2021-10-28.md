@@ -15,12 +15,12 @@ Time:7:00 PM
 
 Discussion points: 
 
-*implementing the wirefare
-* 
-* 
+* implementing the wirefare.
+* Adding cookie's consent in the website.
+* protection to cookie's.
 
 Goals for next week (include responsibilities)
 
-*  
+* 
 * 
 *  
