@@ -14,11 +14,14 @@ The website will display products, customers can browse the catalog and select p
 * Responsive, user-friendly design
 * More to come
 
-# Anticipated Technologies
+# Technologies Used
 
-* We will be using Pythonss Django framework
-* SQL
+* Python's Django framework
+* SQLlite
 * Microsoft VS
+* HTML
+* CSS
+* Javascript
 
 # Method/Approach
 
