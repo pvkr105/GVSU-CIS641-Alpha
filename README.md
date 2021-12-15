@@ -29,7 +29,7 @@ Make sure that you are on the latest version of python on your system and have i
 
 1. Clone the repositery with the following command
 ```json
-git clone 
+{git clone} 
 ```
 2. cd into the project directory.
 ```json
