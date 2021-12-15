@@ -28,29 +28,29 @@ The website will display products, customers can view and select products, custo
 Make sure that you are on the latest version of python on your system and have install pip.
 
 1. Clone the repositery with the following command
-```json
-{ git clone } 
+```sh
+git clone
 ```
 2. cd into the project directory.
-```json
+```sh
 cd
 ```
 3. Create a virtual environment.
-```json
+```sh
 python -m venv env
 env\Scripts\activate
 ```
 4. Install the requirements and run the server.
-```json
+```sh
 pip install -r requirements.txt
 python manage.py runserver
 ```
 For creating the superuser and to access the database.
-```json
+```sh
 python manage.py createsuperuser
 ```
 Don't forget to migrate the server after any changes.
-```json
+```sh
 python manage.py migrate
 ```
 ## Team Members and Roles
