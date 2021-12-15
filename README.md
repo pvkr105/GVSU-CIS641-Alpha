@@ -53,10 +53,10 @@ Don't forget to migrate the server after any changes.
 ```sh
 python manage.py migrate
 ```
-## Team Members and Roles
+## Team Members
 
-- Member 1 (Role 1, Role 2): [Hitesh Gone](https://github.com/gonehitesh/CIS641-HW2-Gone)
-- Member 2 (Role 3, Role 4) :[Vamshi Krishna Reddy](https://github.com/pvkr105/641-HW2-Purumandla)
-- Member 3 (Role 5, Role 6) :[Gurucharan parsa](https://github.com/charanparsa/CIS641-HW2-parsa)
-- Member 4 (Role 7, Role 8) : [Rithwik Sagar Kondala](https://github.com/rithwik05/641-HW2-kondala)
+- Member 1 : [Hitesh Gone](https://github.com/gonehitesh/CIS641-HW2-Gone)
+- Member 2 :[Vamshi Krishna Reddy](https://github.com/pvkr105/641-HW2-Purumandla)
+- Member 3 :[Gurucharan parsa](https://github.com/charanparsa/CIS641-HW2-parsa)
+- Member 4 : [Rithwik Sagar Kondala](https://github.com/rithwik05/641-HW2-kondala)
 
