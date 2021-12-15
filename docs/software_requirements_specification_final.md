@@ -169,5 +169,7 @@ By using the traceability links, appropriate link between the artifacts (Use cas
 * [Mapping Diagram](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/641%20inclass%20assignment%20(1).pdf)
 * [Customer Usecase Description](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/Customer%20Use%20case%20Description.pdf)
 * [Window Navigation Diagram](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/Windows%20Navigation%20Diagram%20for%20Customer.png)
+* [Sequence & State Diagram](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/Seq%26State.pdf)
+* 
 
 
