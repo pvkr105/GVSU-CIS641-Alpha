@@ -25,15 +25,15 @@ The website will display products, customers can view and select products, custo
 
 ## How to run the Project.
 
-Make sure that you are on the latest version of python on your system and have install pip.
+Make sure that you are on the latest version of python on your system and have pip installed.
 
-1. Clone the repositery with the following command
+1. Clone the repositery with the following command.
 ```sh
 git clone git@github.com:gonehitesh/GVSU-CIS641-Alpha.git
 ```
 2. cd into the project directory.
 ```sh
-cd website/alphaweb/
+cd GVSU-CIS641-Alpha/website/alphaweb/
 ```
 3. Create a virtual environment.
 ```sh
