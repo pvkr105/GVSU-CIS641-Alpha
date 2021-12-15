@@ -29,11 +29,11 @@ Make sure that you are on the latest version of python on your system and have i
 
 1. Clone the repositery with the following command
 ```sh
-git clone
+git clone git@github.com:gonehitesh/GVSU-CIS641-Alpha.git
 ```
 2. cd into the project directory.
 ```sh
-cd
+cd website/alphaweb/
 ```
 3. Create a virtual environment.
 ```sh
