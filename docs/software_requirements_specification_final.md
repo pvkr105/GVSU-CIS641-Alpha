@@ -2,97 +2,97 @@
 ### ORDERS
 | ID | Requirement |
 | :-------------: | :----------: |
-| FR1 | customer shall be able to filter orders. |
-| FR2 | customer shall be able to rate ordered product. |
-| FR3 |  customer shall be able to check the order status. |
-| FR4 | customer can add profile to whom the product bought for. |
-| FR5 | The system shall update the inventory data for a shipping purchase order.|
+| FR-1 | Customer shall be able to filter orders. |
+| FR-2 | Customer shall be able to rate ordered product. |
+| FR-3 | Customer shall be able to check the order status. |
+| FR-4 | Customer can add profile to whom the product bought for. |
+| FR-5 | The system shall update the inventory data for a shipping purchase order.|
 
 ### CART
 | ID | Requirement |
 | :-------------: | :----------: |
-| FR6 |  product shall be deleted when user clicks on remove item on cart. |
-| FR7 |  user shall be able to increase the quantity of products they want to buy. |
-| FR8 | guest user shall be able to place order from cart. |
-| FR9 | customer shall be able to change the delivery address. |
-| FR10 | customer shall be able to use the promo code when clicks on apply coupon. |
+| FR-6 | Product shall be deleted when user clicks on remove item on cart. |
+| FR-7 | User shall be able to increase the quantity of products they want to buy. |
+| FR-8 | Guest user shall be able to place order from cart. |
+| FR-9 | Customer shall be able to change the delivery address. |
+| FR-10 |Customer shall be able to use the promo code when clicks on apply coupon. |
 
 ### USER
 | ID | Requirement |
 | :-------------: | :----------: |
-| FR11 | only admin and employees shall have access to the internal database. |
-| FR12 | admin shall organise and adjust the products information. |
-| FR13 |  admin shall update the information of user and manage to login and check the order history. |
-| FR14 |  admin shall sell gift cards to user which could be redeemed in future. |
-| FR15 |  shipping charges and product removal from the cart shall be done by admin  |
+| FR-11 | Only admin and employees shall have access to the internal database. |
+| FR-12 | Admin shall organise and adjust the products information. |
+| FR-13 | Admin shall update the information of user and manage to login and check the order history. |
+| FR-14 | Admin shall sell gift cards to user which could be redeemed in future. |
+| FR-15 | Shipping charges and product removal from the cart shall be done by admin  |
 
 ### CUSTOMER
 | ID | Requirement |
 | :-------------: | :----------: |
-| FR16 | upon browsing product details customer shall receive the product catalogue . |
-| FR17 | customer shall experience minimal load time period and improved accessibility. |
-| FR18 | customers shall have an option for guest account user to checkout. |
-| FR19 |  progress stage shall be displayed during the customer purchase process. |
-| FR20 | during final checkout process customer shall get to edit wrongly entered information. |
+| FR-16 | Upon browsing product details customer shall receive the product catalogue . |
+| FR-17 | Customer shall experience minimal load time period and improved accessibility. |
+| FR-18 | Customers shall have an option for guest account user to checkout. |
+| FR-19 | Progress stage shall be displayed during the customer purchase process. |
+| FR-20 | During final checkout process customer shall get to edit wrongly entered information. |
 
 ### PAYMENT
 | ID | Requirement |
 | :-------------: | :----------: |
-| FR21 | Website shall be integrated with stripe payment solutions. |
-| FR22 |  The system shall be accurate with transaction data. |
-| FR23 |  user shall be redirected to unauthenticated landing page when he clicked on logout button. |
-| FR24 | customer shall be able to use different payment methods like debit/credit, PayPal. |
-| FR25 | After successful payment user shall be able to get the invoice. |
+| FR-21 | Website shall be integrated with stripe payment solutions. |
+| FR-22 | The system shall be accurate with transaction data. |
+| FR-23 | User shall be redirected to unauthenticated landing page when he clicked on logout button. |
+| FR-24 | Customer shall be able to use different payment methods like debit/credit, PayPal. |
+| FR-25 | After successful payment user shall be able to get the invoice. |
 
 
 ## NON-FUNDAMENTALS OF REQUIREMENTS
 ### SECURITY
 | ID | Requirement |
 | :-------------: | :----------: |
-| NFR1 | privacy of customer information shall be maintained. |
-| NFR2 | customer shall be provided guidelines for strong password generation. |
-| NFR3 | After a period of inactivity customer shall be logged out. |
-| NFR4 | customer password shall always be encrypted while using web browser. |
-| NFR5 | when new password is generated customer shall authenticate again. |
+| NFR-1 | Privacy of customer information shall be maintained. |
+| NFR-2 | Customer shall be provided guidelines for strong password generation. |
+| NFR-3 | After a period of inactivity customer shall be logged out. |
+| NFR-4 | Customer password shall always be encrypted while using web browser. |
+| NFR-5 | When new password is generated customer shall authenticate again. |
 
 ### USABILITY
 | ID | Requirement |
 | :-------------: | :----------: |
-| NFR6 | customer shall get the product quickly what he is searching for. |
-| NFR7 |  categories of product should be shown to the user.|
-| NFR8 | product suggestions shall be provided to the user. |
-| NFR9 | user guidelines should be provided. |
-| NFR10 |page should navigate to user desired product.|
+| NFR-6 | Customer shall get the product quickly what he is searching for. |
+| NFR-7 | Categories of product should be shown to the user.|
+| NFR-8 | Product suggestions shall be provided to the user. |
+| NFR-9 | User guidelines should be provided. |
+| NFR-10 | Page should navigate to user desired product.|
 
 ### MAINTENANCE
 | ID | Requirement |
 | :-------------: | :----------: |
-| NFR11 | customer data should be maintained. |
-| NFR12 | bugs in the present version shall be fixed in the new version. |
-| NFR13 | server crash when high traffic should be maintained. |
-| NFR14 | when site is not responding customer shall reload the site. |
-| NFR15 | cache should be cleared to reduce load time. |
+| NFR-11 | Customer data should be maintained. |
+| NFR-12 | Bugs in the present version shall be fixed in the new version. |
+| NFR-13 | Server crash when high traffic should be maintained. |
+| NFR-14 | When site is not responding customer shall reload the site. |
+| NFR-15 | Cache should be cleared to reduce load time. |
 
 ### SCALABILITY
 | ID | Requirement |
 | :-------------: | :----------: |
-| NFR16 | additional server shall be implemented upon higher order volume. |
-| NFR17 | site should be able to sell multiple brands. |
-| NFR18 | load time shall be minimalised by implementing lazy loading. |
-| NFR19 |  gift coupons shall be provided to the customers who buys more products. |
-| NFR20 | interactive home page shall be maintained. |
+| NFR-16 | Additional server shall be implemented upon higher order volume. |
+| NFR-17 | Site should be able to sell multiple brands. |
+| NFR-18 | Load time shall be minimalised by implementing lazy loading. |
+| NFR-19 | Gift coupons shall be provided to the customers who buys more products. |
+| NFR-20 | Interactive home page shall be maintained. |
 
 ### PERFORMANCE
 | ID | Requirement |
 | :-------------: | :----------: |
-| NFR21 | when there is higher spike of orders site should be reliable. |
-| NFR22 | Precise and up-to-date product information and image shall be maintained. |
-| NFR23 |  steady performance shall be attained with user friendly interface and less optimised images. |
-| NFR24 | simple and minimal checkout flow shall be maintained for better user experience. |
-| NFR25 |  Periodical updates shall result in bug fixing and better performance. |
+| NFR-21 | When there is higher spike of orders site should be reliable. |
+| NFR-22 | Precise and up-to-date product information and image shall be maintained. |
+| NFR-23 | Steady performance shall be attained with user friendly interface and less optimised images. |
+| NFR-24 | Simple and minimal checkout flow shall be maintained for better user experience. |
+| NFR-25 | Periodical updates shall result in bug fixing and better performance. |
 
 
-##CHANGE MANAGEMENT PLAN
+## CHANGE MANAGEMENT PLAN
 
 ### Guidelines for the adoption of the Alpha WEB Ecommerce Application.
 
@@ -135,9 +135,9 @@ By using the traceability links, appropriate link between the artifacts (Use cas
 
 | Artifact ID | Artifact Name | Requirement ID |
 | :-------------: | :----------: | :----------: |
-|[UseCase for Customer interface](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/Usecase%20Diagrams%20-%20E%20commerce%20Website.pdf) | Browsing Order catalogue | FR1, FR2, FR3, FR4, FR7, FR16,NFR6, NFR7, NFR9, NFR10, NFR17,NFR19,NFR22 | 
-|[UseCase for Customer interface](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/Usecase%20Diagrams%20-%20E%20commerce%20Website.pdf) |Updating the Cart details and Checking out for Payment| FR6, FR7, FR9, FR10, FR19,FR20, FR21, FR22, FR24, FR25,NFR24,NFR22, NFR11  |
-| [UseCase for Admin interface](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/Usecase%20Diagrams%20-%20E%20commerce%20Website.pdf)  |Managing Inventories and Authenticating Customers and Orders  | FR11, FR12, FR13, FR15, NFR16, NFR25|
+|[UseCase for Customer interface](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/Usecase%20Diagrams%20-%20E%20commerce%20Website.pdf) | Browsing Order catalogue | FR-1, FR-2, FR-3, FR-4, FR-7, FR-16,NFR-6, NFR-7, NFR-9, NFR-10, NFR-17,NFR-19,NFR-22 | 
+|[UseCase for Customer interface](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/Usecase%20Diagrams%20-%20E%20commerce%20Website.pdf) |Updating the Cart details and Checking out for Payment| FR-6, FR-7, FR-9, FR-10, FR-19,FR-20, FR-21, FR-22, FR-24, FR-25,NFR-24,NFR-22, NFR-11  |
+| [UseCase for Admin interface](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/Usecase%20Diagrams%20-%20E%20commerce%20Website.pdf)  |Managing Inventories and Authenticating Customers and Orders  | FR-11, FR-12, FR-13, FR-15, NFR-16, NFR-25|
 
 
 
@@ -145,16 +145,16 @@ By using the traceability links, appropriate link between the artifacts (Use cas
 
 | Artifact Name |  Requirement ID |
 | :-------------: |:----------: |
-| [Signup and Upgraded cart details](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/CIS641%20Assignment%2005.pdf)| FR5, FR7, FR9, NFR2,NFR5 |
-| [Admin authenticating Payments and Invoice](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/CIS641%20Assignment%2005.pdf) | FR25, FR23, FR, NFR,NFR |
+| [Signup and Upgraded cart details](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/CIS641%20Assignment%2005.pdf)| FR-5, FR-7, FR-9, NFR-2,NFR-5 |
+| [Admin authenticating Payments and Invoice](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/CIS641%20Assignment%2005.pdf) | FR-25, FR-23 |
 
 
 ## Activity Diagram Traceability 
 
 | Artifact ID | Artifact Name | Requirement ID | 
 | :-------------: |:----------: | :-------------: |
-|[Activity Diagram 1](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/Activity%20Diagrams%20E%20commerce%20Website.pdf) | Activity Diagram for Customer  Interface | FR1-5, FR6, FR7, FR9, FR10, FR16, FR17, FR19, FR20, FR21, FR24, FR25, NFR2, NFR3, NFR6, NFR8, NFR10, NFR24 |
-|[ActivityDiagram 2](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/Activity%20Diagrams%20E%20commerce%20Website.pdf) | Activity Diagram for Admin Interface | FR11, FR12, FR13, FR14, FR15, NFR11, NFR12 NFR13, NFR16, NFR17, NFR18, NFR20, NFR22, NFR24,NFR25 |
+|[Activity Diagram 1](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/Activity%20Diagrams%20E%20commerce%20Website.pdf) | Activity Diagram for Customer  Interface | FR1-5, FR-6, FR-7, FR-9, FR-10, FR-16, FR-17, FR-19, FR-20, FR-21, FR-24, FR-25, NFR-2, NFR-3, NFR-6, NFR-8, NFR-10, NFR-24 |
+|[ActivityDiagram 2](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/Activity%20Diagrams%20E%20commerce%20Website.pdf) | Activity Diagram for Admin Interface | FR-11, FR-12, FR-13, FR-14, FR-15, NFR-11, NFR-12 NFR-13, NFR-16, NFR-17, NFR-18, NFR-20, NFR-22, NFR-24,NFR-25 |
 
 
 
@@ -170,6 +170,4 @@ By using the traceability links, appropriate link between the artifacts (Use cas
 * [Customer Usecase Description](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/Updated%20Customer%20Use%20case%20Description.pdf)
 * [Window Navigation Diagram](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/Windows%20Navigation%20Diagram%20for%20Customer.png)
 * [Sequence & State Diagram](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/Seq%26State.pdf)
-* 
-
 
