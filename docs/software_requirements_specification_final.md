@@ -138,15 +138,15 @@ By using the traceability links, appropriate link between the artifacts (Use cas
 |[UseCase for Customer interface] (https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/Usecase%20Diagrams%20-%20E%20commerce%20Website.pdf) | Browsing Order catalogue | FR1, FR2, FR3, FR4, FR7, FR16,NFR6, NFR7, NFR9, NFR10, NFR17,NFR19,NFR22 | 
 |[UseCase for Customer interface] (https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/Usecase%20Diagrams%20-%20E%20commerce%20Website.pdf) |Updating the Cart details and Checking out for Payment| FR6, FR7, FR9, FR10, FR19,FR20, FR21, FR22, FR24, FR25,NFR24,NFR22, NFR11  |
 | [UseCase for Admin interface] (https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/Usecase%20Diagrams%20-%20E%20commerce%20Website.pdf)  |Managing Inventories and Authenticating Customers and Orders  | FR11, FR12, FR13, FR15, NFR16, NFR25|
-| … | … | … |
+
 
 
 ## Class Diagram Traceability 
 
 | Artifact Name |  Requirement ID |
 
-| [Signup and Upgraded cart details]()| FR5, FR7, FR9, NFR2,NFR5 |
-| Admin authenticating Payments and Invoice | FR25, FR23, FR, NFR,NFR |
+| [Signup and Upgraded cart details](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/CIS641%20Assignment%2005.pdf)| FR5, FR7, FR9, NFR2,NFR5 |
+| [Admin authenticating Payments and Invoice](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/CIS641%20Assignment%2005.pdf) | FR25, FR23, FR, NFR,NFR |
 
 
 ## Activity Diagram Traceability 
