@@ -29,7 +29,7 @@ Make sure that you are on the latest version of python on your system and have p
 
 1. Clone the repositery with the following command.
 ```sh
-git clone git@github.com:gonehitesh/GVSU-CIS641-Alpha.git
+git clone https://github.com/gonehitesh/GVSU-CIS641-Alpha.git
 ```
 2. cd into the project directory.
 ```sh
