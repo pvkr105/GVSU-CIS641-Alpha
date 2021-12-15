@@ -162,7 +162,7 @@ By using the traceability links, appropriate link between the artifacts (Use cas
 
 # Software Artifacts
 
-< An software artifact is a model which shows the structed flow of how exactly the work takes place. >
+ An software artifact is a model which shows the structed flow of how exactly the work takes place. 
 
 * [Class Diagram](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/CIS641%20Assignment%2005.pdf)
 * [Activity Diagram](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/Activity%20Diagrams%20E%20commerce%20Website.pdf)
