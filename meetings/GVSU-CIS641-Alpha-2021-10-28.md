@@ -21,6 +21,6 @@ Discussion points:
 
 Goals for next week (include responsibilities)
 
-* 
-* 
-*  
+* front end framework
+* setting up html and java script
+* how to create connectivity between web user and front end. 
