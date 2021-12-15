@@ -92,7 +92,7 @@
 | NFR25 |  Periodical updates shall result in bug fixing and better performance. |
 
 
-                           CHANGE MANAGEMENT PLAN
+##CHANGE MANAGEMENT PLAN
 
 ### Guidelines for the adoption of the Alpha WEB Ecommerce Application.
 
@@ -144,15 +144,15 @@ By using the traceability links, appropriate link between the artifacts (Use cas
 ## Class Diagram Traceability 
 
 | Artifact Name |  Requirement ID |
-| :-------------: | :----------: | :----------: |
+
 | [Signup and Upgraded cart details]()| FR5, FR7, FR9, NFR2,NFR5 |
 | Admin authenticating Payments and Invoice | FR25, FR23, FR, NFR,NFR |
-| … | … | … |
+
 
 ## Activity Diagram Traceability 
 
 | Artifact ID | Artifact Name | Requirement ID | 
-| :-------------: | :----------: | :----------: | 
+
 |[Activity Diagram 1](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/Activity%20Diagrams%20E%20commerce%20Website.pdf) | Activity Diagram for Customer  Interface | FR1-5, FR6, FR7, FR9, FR10, FR16, FR17, FR19, FR20, FR21, FR24, FR25, NFR2, NFR3, NFR6, NFR8, NFR10, NFR24 |
 |[ActivityDiagram 2](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/Activity%20Diagrams%20E%20commerce%20Website.pdf) | Activity Diagram for Admin Interface | FR11, FR12, FR13, FR14, FR15, NFR11, NFR12 NFR13, NFR16, NFR17, NFR18, NFR20, NFR22, NFR24,NFR25 |
 
@@ -164,6 +164,10 @@ By using the traceability links, appropriate link between the artifacts (Use cas
 
 < An software artifact is a model which shows the structed flow of how exactly the work takes place. >
 
-* [I am a link] (to_some_file.pdf)
+* [Class Diagram](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/CIS641%20Assignment%2005.pdf)
+* [Activity Diagram](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/Activity%20Diagrams%20E%20commerce%20Website.pdf)
+* [Mapping Diagram](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/641%20inclass%20assignment%20(1).pdf)
+* [Customer Usecase Description](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/Customer%20Use%20case%20Description.pdf)
+* [Window Navigation Diagram](https://github.com/gonehitesh/GVSU-CIS641-Alpha/blob/master/artifacts/functional-models/Windows%20Navigation%20Diagram%20for%20Customer.png)
 
 
