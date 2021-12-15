@@ -45,9 +45,12 @@ env\Scripts\activate
 pip install -r requirements.txt
 python manage.py runserver
 ```
+5. Access the website at http://127.0.0.1:8000/
+6. Access the admin page at http://127.0.0.1:8000/admin
 For creating the superuser and to access the database.
 ```sh
 python manage.py createsuperuser
+python manage.py runserver
 ```
 Don't forget to migrate the server after any changes.
 ```sh
