@@ -47,12 +47,12 @@ python manage.py runserver
 ```
 5. Access the website at http://127.0.0.1:8000/
 6. Access the admin page at http://127.0.0.1:8000/admin
-For creating the superuser and to access the database.
+7. For creating the superuser and to access the database.
 ```sh
 python manage.py createsuperuser
 python manage.py runserver
 ```
-Don't forget to migrate the server after any changes.
+8. Don't forget to migrate the server after any changes.
 ```sh
 python manage.py migrate
 ```
