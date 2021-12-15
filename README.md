@@ -16,7 +16,7 @@ The website will display products, customers can view and select products, custo
 
 # Technologies Used
 
-* Python's Django framework
+* Python's Django framework V3.2.8
 * SQLlite
 * Microsoft VS
 * HTML
@@ -25,11 +25,34 @@ The website will display products, customers can view and select products, custo
 
 ## How to run the Project.
 
+Make sure that you are on the latest version of python on your system and have install pip.
+
 1. Clone the repositery with the following command
 ```json
 git clone 
 ```
-
+2. cd into the project directory.
+```json
+cd
+```
+3. Create a virtual environment.
+```json
+python -m venv env
+env\Scripts\activate
+```
+4. Install the requirements and run the server.
+```json
+pip install -r requirements.txt
+python manage.py runserver
+```
+For creating the superuser and to access the database.
+```json
+python manage.py createsuperuser
+```
+Don't forget to migrate the server after any changes.
+```json
+python manage.py migrate
+```
 ## Team Members and Roles
 
 - Member 1 (Role 1, Role 2): [Hitesh Gone](https://github.com/gonehitesh/CIS641-HW2-Gone)
